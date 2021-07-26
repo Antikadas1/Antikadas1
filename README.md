@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Antika and welcome to my github page,where you will find most of the information about my work, interest, current work, codes and projects. 
-                                                                                       Thank you for taking time to review my github.
                                                                                                       
  ### To the recruiters,
 
@@ -9,6 +8,11 @@ Short Description about my interest, experience and profession : I am a final se
 
 
 For detailed information about my past and current work and projects kindly  check te below list.
+
+You can Find --
+
+Data Analysis projects - https://github.com/Antikadas1/Data_Analysis_Projects
+
 
 
 <!--

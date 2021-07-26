@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Antika and welcome to my github page,where you will find most of the information about my work, interest, current work, codes and projects. 
-                                                                                                      Thank you for taking time to review my github.
+                                                                                       Thank you for taking time to review my github.
                                                                                                       
  ### To the recruiters
 

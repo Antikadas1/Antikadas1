@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Antika and welcome to my github page,where you will find most of the information about my work, interest, current work, codes and projects. 
+                                                                                                      Thank you for taking time to review my github.
+                                                                                                      
+ ### To the recruiters
 
-Short Description about my interest, experience and profession :
+Short Description about my interest, experience and profession : I am a final semester masters student of Computer Science Autonoumous system at Eötvös Loránd University,Budapest, Hungary. My course mostly involved deeper knowledge of data mining, machine learning, deep learning, computer vision, sensor fuision. During my course I aquired a great knowledge of above mentioned topic while I mostly enjoyed working with machine learning and deep learning, specifically convolutional neural network.My research project and thesis topic are the same "Reduce the FN rate using traditional machine learning for clustering and CNN for feature extraction from Cancer images".This project is a combined effort of human knowledge and deep learning/machine learning approches to reduce the FN negative rate of the efficient net classifier. Besides this, doing data visulazation, EDA analysis in my free time with different types of data, such as sports(cricket,football) and movie rating etc. I am always widening my knowledge and interest in the field of AI and Data Science by taking part in the kaggle compettitions, tutoring students, writing blogs, taking small courses. 
 
 <!--
 **Antikadas1/Antikadas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@ Short Description about my interest, experience and profession : I am a final se
 - 🌱 I’m currently learning - Tableau and Dashboard (python), AWS.
 
 
-For detailed information about my past and current work and projects kindly  check te below list.
+### For detailed information about my past and current work and projects kindly  check te below list.
 You can Find --
 
 Data Analysis projects - https://github.com/Antikadas1/Data_Analysis_Projects

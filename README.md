@@ -14,7 +14,7 @@ Short Description about my interest, experience and profession : I am a final se
 You can Find --
 
    - Data Analysis projects - https://github.com/Antikadas1/Data_Analysis_Projects
-   - Machine Learning projects -
+   - Machine Learning projects - https://github.com/Antikadas1/Machine_Learning
    - Deep Learning Project-
    - Image Processing University Assignments - https://github.com/Antikadas1/Image_Processing
    - Research Work -https://github.com/Antikadas1/Research_work_Reducing_FN_Rate
